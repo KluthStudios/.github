@@ -21,7 +21,7 @@ Kluth Studios is a small independent shop spanning three things: **games** we bu
 ## Featured games
 
 ### Lisetris
-A modern take on the falling-block puzzle form0. Fast, clean, and built in TypeScript.
+A modern take on the falling-block puzzle form. Fast, clean, and built in TypeScript.
 
 *Status: in development*
 
