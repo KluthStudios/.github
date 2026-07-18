@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/KluthStudios/.github/main/profile/assets/logo.png" alt="Kluth Studios" width="140" />
-
 # Kluth Studios
 
 **One dream lap at a time.**
